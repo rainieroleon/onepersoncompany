@@ -2385,21 +2385,37 @@ AI Stack (2026 Edition)
 
 ┃
 ┣  Dev & Deployment
+
 ┃ ┣  Google AI Studio
+
 ┃ ┣  GitHub
+
 ┃ ┗  Cursor
+
 ┃
+
 ┣  AI Learning
+
 ┃ ┣  Sifu Yik
+
 ┃ ┣  Google AI Certificate
+
 ┃ ┣  OpenAI Academy
+
 ┃ ┣  YouTube AI Tutorials
+
 ┃ ┗  freeCodeCamp AI
+
 ┃
+
 ┗  Traffic & Community
+
 ┣  YouTube
+
 ┣  Facebook
+
 ┣  TikTok
+
 ┣  Instagram
 ┗  Discord
 
