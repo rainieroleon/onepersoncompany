@@ -89,7 +89,7 @@ This repo is primarily a personal notebook and planning blueprint. If you want t
 
 ## License
 
-No license is included in the repository. If you want others to reuse or contribute, add a license (MIT, CC-BY, or similar) and mention it here.
+MIT License
 
 ## Contact
 
