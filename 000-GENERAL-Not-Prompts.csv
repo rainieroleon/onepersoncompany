@@ -1,5 +1,0 @@
-﻿";abbreviation","<span style=""color:#000000;"">Snippet content</span>","Label"
-";essig","Saludos cordiales,<br />Rainiero León","00. Signature in Spanish"
-";proof","You are an experienced proofreader with 10 years of experience. Please proofread the following text for grammar, spelling, punctuation, and clarity. Suggest improvements to sentence structure and word choice while keeping my tone and style intact. Highlight any unclear or awkward phrasing and provide a revised version. Here’s the text: <br />&lt;text&gt;<br /><br />&lt;/text&gt;","04. [ADM] Proofread"
-";sig","Best regards,<br />Rainiero Leon <br />","00.  Signature in English"
-";temp","Following this .csv sample create the following lines for the snippets based on the given text<br />For this csv file:<br />&lt;sample CSV&gt;<br />"";abbreviation"",""&lt;span style=""""color:#000000;""""&gt;Snippet content&lt;/span&gt;"",""Label""<br />&lt;/sample CSV&gt;<br />Give me the output in codeblock format<span style=""color:#ffffff;""> markdown format.</span><br />Create snippet placeholders based on the following text:<br />","zzz.ATEMPLATE [AREA] Label Description goes here"
